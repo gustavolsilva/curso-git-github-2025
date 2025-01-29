@@ -16,3 +16,8 @@ no padrão do aplicativo vem como *master*, alterar para *main*
 </p>
 
 ### Comandos Bash
+* ls -> lista arquivos
+* cd -> move entre diretorios
+* pwd -> mostra diretorio de trabalho
+* cat -> exibe conteudo do arquivo
+* rm -> remove arquivo ou diretorio
