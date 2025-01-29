@@ -1,0 +1,4 @@
+Esse arquivo contém informações adicionais para git
+
+git reset <nome_arquivo> -> restaura do status stg de do add para pré add
+git branch -b <nome_branch> -> cria e muda a branch
