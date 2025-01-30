@@ -4,3 +4,6 @@ git reset <nome_arquivo> -> restaura do status stg de do add para pré add
 git branch -b <nome_branch> -> cria e muda a branch
 git checkout <nome_branch> -> modifica entre as branches existentes
 git merge <nome_branch> <nome_da_outra_branch> -> mescla o conteúdo existente de uma branch na outra.
+
+# Comandos mais genéricos
+- Comandos estranhos
