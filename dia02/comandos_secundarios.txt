@@ -7,3 +7,9 @@ git merge <nome_branch> <nome_da_outra_branch> -> mescla o conteúdo existente d
 
 # Comandos mais genéricos
 - Comandos estranhos
+
+# Mais comandos!!! 
+Loremispsum
+Loremispsum
+Loremispsum
+
