@@ -6,6 +6,7 @@ Onde ver as aulas: Na twitch (https://twitch.tv/teomewhy) ou no Canal dele do Yo
 Além disso, vamos trabalhar com GitFlow ao final do curos e Visual Studio Code. <br>
 Confira tudo o que temos no Youtube acima ou na Twitch. É Gratis! 
 </p>
+
 ## Dia 01 - Instalando o Git, Comandos Bash
 
 ### Instalação
@@ -58,3 +59,5 @@ git remote add origin https://github.com/seuusuario/NomeDiretorio.git
 git branch -M main
 git push -u origin main
 ```
+## Pessoas Participantes
+Teo
