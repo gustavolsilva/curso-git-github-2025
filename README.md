@@ -1,7 +1,11 @@
 # Curso Git e Github teomewhy 2025
 Instructor: Teo Calvo - @teomewhy <br>
-Onde ver as aulas: Na twitch (https://twitch.tv/teomewhy) ou no Canal dele do Youtube (https://youtube.com/teomewhy)
+Onde ver as aulas: Na twitch (https://twitch.tv/teomewhy) ou no Canal dele do Youtube (https://youtube.com/teomewhy) <br>
 
+<p> Um curso para inciantes aprenderem a trabalhar com versionamento de código e repositórios remotos com GitHub. <br>
+Além disso, vamos trabalhar com GitFlow ao final do curos e Visual Studio Code. <br>
+Confira tudo o que temos no Youtube acima ou na Twitch. É Gratis! 
+</p>
 ## Dia 01 - Instalando o Git, Comandos Bash
 
 ### Instalação
