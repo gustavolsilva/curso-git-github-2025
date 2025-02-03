@@ -10,6 +10,10 @@ Confira tudo o que temos no Youtube acima ou na Twitch. É Gratis! Segue o Link:
 
 [Curso Git 2025](https://youtube.com/@teomewhy)
 
+Além no nosso YouTube, se ligue no nosso site e agenda para ficar por dentro de tudo que vai rolar em 2025.
+
+[teomewhy.org](https://teomewhy.org;schedule)
+
 </p>
 
 ## Dia 01 - Instalando o Git, Comandos Bash
@@ -48,7 +52,8 @@ git log                         -> Mostra todo o histórico de commit <br>
 git diff <nome_arquivo>         -> Demonstra o log de mudanças do arquivo em questão. <br>
 git checkout -b <nome_branch>   -> Cria uma nova branch para o projeto <br>
 git branch                      -> Lista as branchs existentes <br>
-git checkout <nome_brach>       -> Modifica a Branch que está em utilização no momento.
+git checkout <nome_brach>       -> Modifica a Branch que está em utilização no momento. <br>
+git fetch                       -> Comando que permite baixar conteúdos de um repositório remoto para o repositório local
 
 ## Dia 03
 <p>Github. Controlador de Respositorios em nuvem dos Projetos criados em git.<br>
