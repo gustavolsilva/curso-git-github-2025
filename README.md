@@ -112,3 +112,18 @@ Em caso de erro ao tentar o comando `git push origin <nome_branch>` utilize o o 
 ## Pessoas Participantes
 - Gustavo Lourenço
 - Teo Calvo
+
+## Dia 04
+
+### Git Flow
+Trabalhar com **develop**
+checout a partir da **develop**
+pull-request para **develop**
+release para **main**
+
+#### Convention Commit ####
+[Medium](https://miro.medium.com/v2/resize:fit:720/format:webp/1*izVKF4AT1iDtv4fJO8oWWA.png)
+
+#### Paterns names of branches
+[Medium](https://medium.com/prolog-app/nossos-padr%C3%B5es-de-nomenclatura-para-branches-e-commits-fade8fd17106)
+
