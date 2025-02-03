@@ -1,10 +1,15 @@
 # Curso Git e Github teomewhy 2025
 Instructor: Teo Calvo - @teomewhy <br>
-Onde ver as aulas: Na twitch (https://twitch.tv/teomewhy) ou no Canal dele do Youtube (https://youtube.com/teomewhy) <br>
+Onde ver as aulas: Na twitch (https://twitch.tv/teomewhy) ou no Canal dele do Youtube (https://youtube.com/@teomewhy) <br>
 
 <p> Um curso para inciantes aprenderem a trabalhar com versionamento de código e repositórios remotos com GitHub. <br>
+
 Além disso, vamos trabalhar com GitFlow ao final do curos e Visual Studio Code. <br>
-Confira tudo o que temos no Youtube acima ou na Twitch. É Gratis! 
+
+Confira tudo o que temos no Youtube acima ou na Twitch. É Gratis! Segue o Link:
+
+[Curso Git 2025](https://youtube.com/@teomewhy)
+
 </p>
 
 ## Dia 01 - Instalando o Git, Comandos Bash
@@ -100,6 +105,10 @@ git push -u origin main
 12. git checkout main
 13. git branch -d <nova_branch>
 
+### Observações
+Em caso de erro ao tentar o comando `git push origin <nome_branch>` utilize o o comando:
+`git remote set-url origin git@github.com:seu_username/nome_repositorio.git` (onde seu_username é o seu login e nome_repositorio é o repositório do seu GitHub)
 
 ## Pessoas Participantes
-Teo
+- Gustavo Lourenço
+- Teo Calvo
