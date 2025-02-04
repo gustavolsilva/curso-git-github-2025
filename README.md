@@ -132,3 +132,6 @@ release para **main**
 #### Paterns names of branches
 [Medium](https://medium.com/prolog-app/nossos-padr%C3%B5es-de-nomenclatura-para-branches-e-commits-fade8fd17106)
 
+### gitkeep e gitignore
+O **.gitignore** serve para você determinar o que não precisa versionar seu projeto. <br>
+O **.gitkeep**, para as pastas, serve para que ela "exista" no projeto. Um exemplo é uma pasta de dados que irá vazia, mas para existir, precisa do arquivo com esta nomenclatura para que o diretório exista no GitHub.
